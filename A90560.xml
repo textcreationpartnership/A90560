@@ -1,0 +1,563 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition and vindication of the officers of the armie under His Excellencie Sir Thomas Fairfax. Setting forth, their canded [sic] and cleere intentions in their former petition of the officers and souldiers of the army, intended to be presented to their generall. Wherein it will appeare, they never intended to inslave the kingdome, or put condition on the Parliament, or to hinder the service of Ireland, but to further it. As it was presented to the House of Commons on Tuesday, Aprill 27. 1647. / By Colonell Okey. Colonell Huson. Lieutenant Col. Reade. Lieutenant Col. Pride. [brace] Major Rogers. Captain Reinolds. Captain Goffe. And read on Fryday, April 30.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90560</idno>
+            <idno type="STC">Wing P1745</idno>
+            <idno type="STC">Thomason E385_19</idno>
+            <idno type="STC">ESTC R201469</idno>
+            <idno type="EEBO-CITATION">99861973</idno>
+            <idno type="PROQUEST">99861973</idno>
+            <idno type="VID">160212</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160212)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E385[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition and vindication of the officers of the armie under His Excellencie Sir Thomas Fairfax. Setting forth, their canded [sic] and cleere intentions in their former petition of the officers and souldiers of the army, intended to be presented to their generall. Wherein it will appeare, they never intended to inslave the kingdome, or put condition on the Parliament, or to hinder the service of Ireland, but to further it. As it was presented to the House of Commons on Tuesday, Aprill 27. 1647. / By Colonell Okey. Colonell Huson. Lieutenant Col. Reade. Lieutenant Col. Pride. [brace] Major Rogers. Captain Reinolds. Captain Goffe. And read on Fryday, April 30.</title>
+                  <author>England and Wales. Army. Council.</author>
+               </titleStmt>
+               <extent>[2], 1, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington, at the Blew Anchor in Cornhill, neere the Royall Exchange,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 1 is the only numbered page.</note>
+                  <note>The words "Major Rogers. .. April 30." are bracketed together on title page.</note>
+                  <note>Annotation on Thomason copy: "May 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160212:1" rendition="simple:additions"/>
+            <p>THE PETITION AND VINDICATION Of the Officers of the ARMIE VNDER His Excellencie Sir <hi>Thomas Fairfax.</hi>
+            </p>
+            <p>SETTING FORTH, Their Canded and cleere intentions in their former Petition of the Officers and Souldiers of the Army, intended to be preſented to their Generall.</p>
+            <p>Wherein it will appeare, they never inten<g ref="char:EOLhyphen"/>ted to inſlave the Kingdome, or put Condition on the Parliament, or to h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder the ſervice of <hi>Ireland,</hi> but to further it.</p>
+            <p>
+               <hi>As it was preſenten to the Houſe of Commons on Tueſday, Aprill</hi> 27. 1647.</p>
+            <p>BY
+<list>
+                  <item>Colonell <hi>Ok<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y.</hi>
+                  </item>
+                  <item>Colonell <hi>Huſon.</hi>
+                  </item>
+                  <item>Lieutenant Col. <hi>Reade.</hi>
+                  </item>
+                  <item>Lieutenant Col. <hi>Pride.</hi>
+                  </item>
+                  <item>Major <hi>Rogers.</hi>
+                  </item>
+                  <item>Captain <hi>Reinolds.</hi>
+                  </item>
+                  <item>Captain <hi>Goffe.</hi>
+                  </item>
+                  <item>
+                     <hi>And read on Fryday,</hi> April 30.</item>
+               </list>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Whittington,</hi> at the <hi>Blew Anchor</hi> in Cornhill, neere the Royall Exchange, 1647.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:160212:2"/>
+            <head>To the Honorable the Houſe of Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament.</head>
+            <argument>
+               <p>The humble Petition of the Officers of the Army under the command of his Excel<g ref="char:EOLhyphen"/>lency Sir <hi>Thomas Fairfax</hi> on the behalfe of themſelvs and the Souldiers of the Army;</p>
+            </argument>
+            <opener>Humbly ſhewech,</opener>
+            <p>THat your Petitioners being ſenſible of ſome diſpleaſure in this Honora<g ref="char:EOLhyphen"/>ble Houſe againſt them through ſome miſ-information concerning the carriage and managing of a late Petition in the Ar<g ref="char:EOLhyphen"/>my, doe humbly offer unto your conſide<g ref="char:EOLhyphen"/>ration, the paper annexed for the better clearing of our intentions, humbly deſi<g ref="char:EOLhyphen"/>ring your favourable conſtruction and ac<g ref="char:EOLhyphen"/>ceptance of what is therein contained, ac<g ref="char:EOLhyphen"/>cording to the integrity with which it is preſented,</p>
+            <closer>And your Petitioners ſhall pray, &amp;c.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:160212:2"/>
+            <head>THE VINDICATION OF THE OFFICERS of the ARMY under Sir THOMAS FAIREFAX.</head>
+            <p>THe miſ-repreſentations of us, and our harmleſſe intentions to this Honourable Houſe, occaſioning hard thoughts and ex<g ref="char:EOLhyphen"/>preſſions of your diſpleaſure againſt us. We cannot but look upon as an act of moſt ſad importance; tending, in our ap<g ref="char:EOLhyphen"/>prehenſions to alienate your affections from your ever-truſty and obedient Army; then which nothing can more rejoyce your Adver<g ref="char:EOLhyphen"/>ſaries, or miniſter greater hopes of their re-advancement, nothing more diſcouraging us, who ſhould eſteeme it the greateſt point of Honor to ſtand by you till the conſummation of your worke, the re<g ref="char:EOLhyphen"/>movall of every yoake from the peoples necks, and the eſtabliſhment of thoſe good Lawes you ſhall judge neceſſary for the Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p>Out of our feares therefore of the advantage may be made there<g ref="char:EOLhyphen"/>from, and that the Honorable Houſe may retain the ſame good o<g ref="char:EOLhyphen"/>pinion of us, they formerly had; (whom God hath hitherto bleſt with abundant bleſſings) We humbly crave the boldneſſe to pre<g ref="char:EOLhyphen"/>ſent unto you, ſome Reaſons to cleare our proceedings in thoſe paſſages, which wee finde moſt obvious to exceptions in our Peti<g ref="char:EOLhyphen"/>tion; whereby wee hope to make it evident to you, that we did no more then what neceſſity prompted us unto; That the meanes we uſed, and the method we tooke, was as we conceived moſt or<g ref="char:EOLhyphen"/>derly, and inoffencive proceeding not in the leaſt from diſtemper, and aiming in no meaſure at mutinie, nor in any wiſe to put con<g ref="char:EOLhyphen"/>ditions upon the Parliament, and that you will from thence diſco<g ref="char:EOLhyphen"/>ver the corruptions of theſe mens hearts, who have been the e<g ref="char:EOLhyphen"/>vill inſtruments of occaſioning your late Declaration againſt us.</p>
+            <pb facs="tcp:160212:3"/>
+            <p>For our liberty of petitiooing, we hope this honoura<g ref="char:EOLhyphen"/>ble houſe will never deny it unto us, wee know not any thing more eſſentiall to freedome, without it grievances are remedileſſe, and our condition moſt miſerable, you have not denied it to your Adverſaries; you juſtified it, and commended it in your Declaration of the ſecond of <hi>Novemb.</hi> 1642. in theſe words:</p>
+            <p>It is the liberty &amp; priviledge of the People to petition un<g ref="char:EOLhyphen"/>to us for the eaſe &amp; redreſſe of their grievances, &amp; oppreſ<g ref="char:EOLhyphen"/>ſions; and we are bound in duty to receive their Petitions: And we hope by being Souldiers, wee have not loſt the capacity of Subjects, nor diveſted our ſelves thereby of our intereſt in the Common-wealth, That in purchaſing of the freedomes of our Brethren, wee have not loſt our owne: beſides, we can inſtance in petitions from Officers in the Earl of <hi>Eſſex,</hi> and Sir <hi>William Wallers</hi> Army (even whileſt they were in Armes) which were will received by this honourable houſe, with a return of thankes: and therefore wee hope wee ſhall not bee conſidered as men without the Pale of the Kingdom, excluded from the fun<g ref="char:EOLhyphen"/>damentall priviledge of ſubjects, eſpecially ſince wee are conſcious to our ſelves of nothing that may deſerve the ſame.</p>
+            <p>VVe have not till now appeared in petitioning, though our neceſſities have been frequent and urgent, not that we doubted our liberty, but becauſe wee were unwilling to interrupt you in your other weighty affaires, and we pro<g ref="char:EOLhyphen"/>ceeded at this time with the greateſt care and caution we could, of giving the leaſt offence, intending not to preſent our Petition to this honourable houſe, but with the ap<g ref="char:EOLhyphen"/>probation, and by the mediation of his Excellencie, our ever honoured Generall, knowing how watchful our Ene<g ref="char:EOLhyphen"/>mies were to make the hardeſt conſtruction of all our a<g ref="char:EOLhyphen"/>ctions,
+<pb facs="tcp:160212:3"/> and repreſent us to you, and the world under ſuch tearmes as may render us moſt odious.</p>
+            <p>You may ſee the inſidies of them by the falſe ſuggeſti<g ref="char:EOLunhyphen"/>ons they have already made to you; of our forcing ſub<g ref="char:EOLhyphen"/>ſcriptions, the reaſonableneſſe and neceſſity of our deſires whereof almoſt every ſouldier is abundantly ſenſible, wil pleade the vanity of ſuch an enforcement, eſpecialy when it ſhall bee knowne that the Petition tooke its firſt Riſe from amongſt the ſouldiers, and that wee ingaged but in the ſecond place to regulate the ſouldiers proceedings, &amp; remove as neer as we could all occaſion of diſtaſte.</p>
+            <p>For our deſires of indempnity for ſuch actions, as being not warrantable by Law in time of Peace, we were infor<g ref="char:EOLunhyphen"/>ced unto them by the neceſſity and exigencie of the war-wee are confident this honourable houſe will approve o it, when you ſhall be informed, that the ſouldiers are fre<g ref="char:EOLhyphen"/>quently indicted at Aſſizes and Seſſions, and otherwiſe grievouſly moleſted for ſuch actions, and many lately ſuf<g ref="char:EOLhyphen"/>fering for the ſame. Notwithſtanding that proviſion you lately made againſt it, That divers have had verdicts paſt a<g ref="char:EOLhyphen"/>gainſt them this laſt Aſſizes, for actions done as ſouldiers (as we are credibly informed) if this be our Portion in the time of your Seſſion, for what we did through the exigen<g ref="char:EOLunhyphen"/>cie of your ſervice; what cruel and violent proceedings are we like to find, after you are pleaſed to diſſolve.</p>
+            <p>For the particular intimation, That the Royall Aſſent may be defired, we never intended it to leſſen your autho<g ref="char:EOLhyphen"/>rity; but ſince you have by offering the Propositions, judg the desiring of the Kings aſſent convenient. Since like<g ref="char:EOLhyphen"/>wiſe the City of <hi>London</hi> made the ſame desire without offence, and your Orders to the Judges, we know not how effectuall they may prove to ſave us from ſuch proceed<g ref="char:EOLhyphen"/>ings after your Seſſions; All theſe Reaſons considere
+<pb facs="tcp:160212:4"/> will, we hope, manifeſt our intentions in that intimation to be onely a providen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> caution for our future ſafety, without the leaſt thought of diſreſpect to your au<g ref="char:EOLhyphen"/>thority. For the deſire of our Arrears neceſſity (eſpecially of our Soldiers) infor<g ref="char:EOLhyphen"/>ced us thereunto, that we have not been mercenary, or propoſed gain as our end, the ſpeedy ending of a languiſhing war will teſtifie for us, whereby the people are much eaſed of their Taxes and daily disburſments and decayed Trade reſto<g ref="char:EOLhyphen"/>red to a full and flouriſhing condition in all Quarters. We left our eſtates, an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many of us our Trades and Callings to others, and forſook the contentments of a quiet life, not fearing or regarding the difficulties of warre for your ſakes. After all which we hoped that the deſires of our hardly-earned-wages (by the mediati<g ref="char:EOLhyphen"/>on of our Generall) would have been no unwelcome requeſt, nor argued us guil<g ref="char:EOLhyphen"/>ty of the leaſt diſcontent, or intention of mutiny.</p>
+            <p>We know not any thing further in our Petition which hath been excepted againſt, but your apprehenſions that it tendeth to hinder the reliefe of <hi>Ireland,</hi> which we do not underſtand; wherein having alwayes manifeſted in all our a<g ref="char:EOLhyphen"/>ctions, our readineſſe to further that worke, unleſſe you meane by that deſire, that thoſe who have ſerved voluntarily ſhould not be preſſed to go out of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdome, to which we humbly offer this; that thoſe who have voluntarily ſer<g ref="char:EOLhyphen"/>ved in theſe wars, and left their Parents Trades and Livelihoods, and without any compulſion, ingaged of their own accords, ſhould after all their free and un<g ref="char:EOLhyphen"/>wearied labours be now forced and compelled to go out of this Kingdome, whoſe peace they have ſo much endeavoured with unwaried paines, hoping thereby to have lived &amp; enjoyed the fruits of their labours would to them ſeem very hard, but beſides this, our ſeverall votes and ingagements March 21. to endeavour the advancement of the ſervice of <hi>Ireland</hi> what we could, wil<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cleare us, and our good affections in promoting that worke, and therefore we hope what hath been ſaid, will remove all ſcruples, and reſtore us to the good opinion of this Honourable Houſe, in aſſurance whereof, and in conſide<g ref="char:EOLhyphen"/>ration of the premiſes, we are further imboldened to make theſe our requeſts unto this honourable Houſe.</p>
+            <p n="1">1. That you will be pleaſed to allow us our liberty of petitioning in what may concern us now as Soldiers, &amp; afterwards as members of the Common-wealth</p>
+            <p n="2">2. Since upon the falſe ſuggeſtions of ſome men informing you, that this Ar<g ref="char:EOLhyphen"/>my intended to inſlave the Kingdome; the honorable Houſe was ſo farre pre<g ref="char:EOLhyphen"/>vailed withall, as to ſummon divers of us to appeare at your Barre; and to paſſe a Declaratio<g ref="char:cmbAbbrStroke">̄</g> thereby expreſſing your high diſlike of our Petition, declaring it te<g ref="char:cmbAbbrStroke">̄</g>ded to put conditions upon the Parliament: The ſenſe of ſuch expreſſions is ſo irk<g ref="char:EOLhyphen"/>ſome to us who have ventured whatſoever we eſteemed dear to us in this world or preſervation of your freedome and priviledges, that we cannot but earneſtly <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mplore your juſtice in the vindication of us, as in your wiſdomes you ſha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hink fit.</p>
+            <pb facs="tcp:160212:4"/>
+            <p>
+               <hi>Thomas Hammond</hi> Leivtennat Generall of the Ordnance.</p>
+            <list>
+               <item>Colonells.
+<list>
+                     <item>
+                        <hi>Edward Wha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ley</hi> Colonell.</item>
+                     <item>
+                        <hi>Iohn Lambert</hi> Calonel.</item>
+                     <item>
+                        <hi>Robert Lilburne</hi> Colonel.</item>
+                     <item>
+                        <hi>Nath<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>niel Rich</hi> Colonel.</item>
+                     <item>
+                        <hi>Iohn Hewſon</hi> Colonel.</item>
+                     <item>
+                        <hi>Robert Hammond</hi> Colonel.</item>
+                     <item>
+                        <hi>Iohn Okey</hi> Colonel.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Leivetennant</hi> Colonels.
+<list>
+                     <item>
+                        <hi>Thomas Pride</hi> Leiv. Colonel.</item>
+                     <item>
+                        <hi>Thomas Kelſay</hi> Leiv. Col.</item>
+                     <item>
+                        <hi>Thomas Reade</hi> Leiv. Col.</item>
+                     <item>
+                        <hi>Iohn Iubbs</hi> L. Collonel.</item>
+                     <item>
+                        <hi>Marke Grim<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> L. Col.</item>
+                     <item>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Ewer</hi> L. Col.</item>
+                     <item>
+                        <hi>Edward Salmon</hi> L. Col.</item>
+                  </list>
+               </item>
+               <item>Majors
+<list>
+                     <item>
+                        <hi>Mathew Rogers</hi> Major.</item>
+                     <item>
+                        <hi>Danniel Axtel</hi> Major.</item>
+                     <item>
+                        <hi>William Cowell</hi> Major.</item>
+                     <item>
+                        <hi>Thomas Smith</hi> Major.</item>
+                     <item>
+                        <hi>Thomas Horton</hi> Major.</item>
+                     <item>
+                        <hi>Iohn Desborow</hi> Major.</item>
+                     <item>
+                        <hi>Adam Lawrence</hi> Cap.</item>
+                     <item>
+                        <hi>Iames Berry</hi> Cap.</item>
+                     <item>
+                        <hi>William Packer</hi> Cap.</item>
+                     <item>
+                        <hi>Sammuel Packer.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Gladman</hi> Cap. Leiu</item>
+                     <item>
+                        <hi>William Diſher</hi> L.</item>
+                     <item>
+                        <hi>Richard Merris</hi> Leu</item>
+                     <item>
+                        <hi>Ioſeph Wallington</hi> Capt. Leiu</item>
+                     <item>
+                        <hi>Nathaniel White</hi> Leiv.</item>
+                     <item>
+                        <hi>Edmond Chillenden</hi> Leiv.</item>
+                     <item>
+                        <hi>Cox Took</hi> Coronet.</item>
+                     <item>
+                        <hi>Henry Pretty</hi> Capt.</item>
+                     <item>
+                        <hi>Sampſon Toogood</hi> Leiv.</item>
+                     <item>
+                        <hi>Iohn Freind.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Wheeler.</hi>
+                     </item>
+                     <item>
+                        <hi>George Enſor</hi> Leiv.</item>
+                     <item>
+                        <hi>George Gregſon</hi> Capt.</item>
+                     <item>
+                        <hi>William Leigh</hi> Capt.</item>
+                     <item>
+                        <hi>Thomas Parſons</hi> Capt.</item>
+                     <item>
+                        <hi>Henry Bal.</hi> Cornet</item>
+                     <item>
+                        <hi>William Farley.</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond Rolfe.</hi> Capt.</item>
+                     <item>
+                        <hi>Iohn Ienkins</hi> Capt.</item>
+                     <item>
+                        <hi>Abraham Holmes.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Carter</hi> Capt.</item>
+                     <item>
+                        <hi>Iohn Puckle</hi> Capt.</item>
+                     <item>
+                        <hi>William Arnop</hi> Capt. L.</item>
+                     <item>
+                        <hi>Thomas Price</hi> Capt.</item>
+                     <item>
+                        <hi>Thomas Davis</hi> Capt.</item>
+                     <item>
+                        <hi>Edward Orpin</hi> Capt.</item>
+                     <item>
+                        <hi>William Ste<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ton.</hi>
+                     </item>
+                     <item>
+                        <hi>Richord Z<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nchy</hi> Capt.</item>
+                     <item>
+                        <hi>Griffith Loyde</hi> Leiv.</item>
+                     <item>
+                        <hi>William Goffe</hi> Capt.</item>
+                     <item>
+                        <hi>Iohn Maſon</hi> Capt.</item>
+                     <item>
+                        <hi>Wartoff Lagoe</hi> Capt.</item>
+                     <item>
+                        <hi>Edward Scotton</hi> Leiv.</item>
+                     <item>
+                        <hi>William Cobb</hi> Cornet.</item>
+                     <item>
+                        <hi>Iohn Forgiſon</hi> Capt.</item>
+                     <item>
+                        <hi>Roger Alſop</hi> Capt.</item>
+                     <item>
+                        <hi>Thomas Diſney</hi> Capt.</item>
+                     <item>
+                        <hi>Iohn Nicholas</hi> Leiv.</item>
+                     <item>
+                        <hi>Iohn Spencer</hi> Cornet.</item>
+                     <item>
+                        <hi>Richard Maſſe</hi> Leiv.</item>
+                     <item>
+                        <hi>Richard Kemp.</hi> Leiv.</item>
+                     <item>
+                        <hi>Iohn Bifcoe</hi> Capt.</item>
+                     <item>
+                        <hi>Iames Loyde.</hi>
+                     </item>
+                     <item>
+                        <hi>Mathew Cadwell</hi> Capt.</item>
+                     <item>
+                        <hi>Sammuel Roſſe</hi> Capt. Leiv.</item>
+                     <item>
+                        <hi>William Sheares.</hi> Leiv.</item>
+                     <item>
+                        <hi>Thomas Sheares.</hi>
+                     </item>
+                     <item>
+                        <hi>William I<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g.</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Whitehead</hi> Cornet.</item>
+                     <item>
+                        <hi>Iohn Merriman</hi> Leiv.</item>
+                     <item>
+                        <hi>Henry Dorney</hi> Leiv.</item>
+                     <item>
+                        <hi>Azariell Husbands</hi> Capt.</item>
+                     <item>
+                        <hi>Charles Bolton</hi> Enſign.</item>
+                     <pb facs="tcp:160212:5"/>
+                     <item>
+                        <hi>Stephen White</hi> Lieut.</item>
+                     <item>
+                        <hi>Lawrence Nunny</hi> Capt.</item>
+                     <item>
+                        <hi>Robert Lewis</hi> Capt.</item>
+                     <item>
+                        <hi>William Iones</hi> Enſign.</item>
+                     <item>
+                        <hi>Thomas Cartwright</hi> Enſign.</item>
+                     <item>
+                        <hi>W. Weare</hi> Capt. Leivt.</item>
+                     <item>
+                        <hi>Edw. Atkinſon</hi> Capt.</item>
+                     <item>
+                        <hi>Fran. Hawes</hi> Capt.</item>
+                     <item>
+                        <hi>Rich. Wagstaffe</hi> Capt.</item>
+                     <item>
+                        <hi>Gyles Sanders.</hi> Capt.</item>
+                     <item>
+                        <hi>Hugh Ienkins</hi> Lieut.</item>
+                     <item>
+                        <hi>Benj. Burges</hi> Capt.</item>
+                     <item>
+                        <hi>Rich. Eſſex.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Riſleden.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Cleare.</hi>
+                     </item>
+                     <item>
+                        <hi>T. Pennyfather</hi> Capt.</item>
+                     <item>
+                        <hi>Walter Bethel</hi> Capt.</item>
+                     <item>
+                        <hi>Sam Gardiner</hi> Capt.</item>
+                     <item>
+                        <hi>W. Forſter.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Milward</hi> Capt.</item>
+                     <item>
+                        <hi>Clem. Arnold.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Parry.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Grove</hi> capt.</item>
+                     <item>
+                        <hi>W. Evanſon</hi> Capt.</item>
+                     <item>
+                        <hi>T. Chamberlen</hi> Lieut.</item>
+                     <item>
+                        <hi>Iohn Wright.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Frend.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Allen.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Day.</hi>
+                     </item>
+                     <item>
+                        <hi>Abraham Davis</hi> Lieut.</item>
+                     <item>
+                        <hi>Iohn Tapendean</hi> Capt.</item>
+                     <item>
+                        <hi>Hen. Davis</hi> Capt.</item>
+                     <item>
+                        <hi>Sam: Grame</hi> Capt.</item>
+                     <item>
+                        <hi>Alexander Brafield</hi> Capt.</item>
+                     <item>
+                        <hi>Tho. Atkinſon</hi> Capt.</item>
+                     <item>
+                        <hi>W. Arnold. Lieut:</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Web.</hi> Lieut.</item>
+                     <item>
+                        <hi>Ienkin Buen</hi> Lieut.</item>
+                     <item>
+                        <hi>George Ienkins.</hi> Lieut.</item>
+                     <item>
+                        <hi>W. Hill.</hi> Lieut</item>
+                     <item>
+                        <hi>Ralph Gell</hi> Lieut.</item>
+                     <item>
+                        <hi>T. Baker</hi> Lieut.</item>
+                     <item>
+                        <hi>George Smith</hi> Lieut.</item>
+                     <item>
+                        <hi>Sam: Axtell</hi> Lieut.</item>
+                     <item>
+                        <hi>Henry Williams.</hi> Enſ.</item>
+                     <item>
+                        <hi>Edw. Hoare</hi> Enſ.</item>
+                     <item>
+                        <hi>T, Rawlins</hi> Capt.</item>
+                     <item>
+                        <hi>T. Lewis</hi> Enſ.</item>
+                     <item>
+                        <hi>Ier: Canfield</hi> Enſ.</item>
+                     <item>
+                        <hi>Rob. Nunwings</hi> Enſ.</item>
+                     <item>
+                        <hi>T. Newnam</hi> Enſ.</item>
+                     <item>
+                        <hi>Iohn Davis</hi> Enſ.</item>
+                     <item>
+                        <hi>Morgan Porter</hi> Enſ.</item>
+                     <item>
+                        <hi>Iohn Blunfield.</hi>
+                     </item>
+                     <item>
+                        <hi>Natthan. Bolet,</hi>
+                     </item>
+                     <item>
+                        <hi>W. Powell.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Savage</hi> Lieut.</item>
+                     <item>
+                        <hi>Iohn Shrimpton</hi> Lieut.</item>
+                     <item>
+                        <hi>Iehn Mill.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Grime</hi> Capt.</item>
+                     <item>
+                        <hi>Iohn Reynolds</hi> Capt.</item>
+                     <item>
+                        <hi>T. Mercer</hi> Capt.</item>
+                     <item>
+                        <hi>Iohn Blackwell</hi> Capt. &amp; Treaſ.</item>
+                     <item>
+                        <hi>Tho: Coleman</hi> Capt.</item>
+                     <item>
+                        <hi>Iohn Goodw<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ne</hi> Quartermr.</item>
+                     <item>
+                        <hi>Iohn Peck.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Stiles</hi> Cap.</item>
+                     <item>
+                        <hi>Iohn Miller</hi> Lieut.</item>
+                     <item>
+                        <hi>Anth. Lacon</hi> Cornet.</item>
+                     <item>
+                        <hi>Abell Warren</hi> Gornet.</item>
+                     <item>
+                        <hi>T. Savage</hi> Quartermr.</item>
+                     <item>
+                        <hi>George Hayes</hi> Quartermr.</item>
+                     <item>
+                        <hi>Iohn Adice</hi> quartermr.</item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <hi>Reader,</hi> take notice that all the names hereunto ſubſcri<g ref="char:EOLhyphen"/>bed, are Commiſſion Officers, but by reaſon they did not ſet down their titles, the Publi<g ref="char:EOLhyphen"/>ſher could not make them known to thee.</p>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
